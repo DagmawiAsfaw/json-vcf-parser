@@ -1,0 +1,30 @@
+{
+  "name": "json-vcf-parser",
+  "version": "1.0.0",
+  "description": "parses json to vcf vcards and vcf files to json format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DagmawiAsfaw/json-vcf-parser.git"
+  },
+  "keywords": [
+    "JSON",
+    "VCF",
+    "vcard",
+    "vcf",
+    "json"
+  ],
+  "author": "Dagmawi Asfaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DagmawiAsfaw/json-vcf-parser/issues"
+  },
+  "homepage": "https://github.com/DagmawiAsfaw/json-vcf-parser#readme",
+  "dependencies": {
+    "vcardparser": "^1.0.3",
+    "vcards-js": "^2.10.0"
+  }
+}
